@@ -1,0 +1,8 @@
+{
+  "name": "LegalApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b3781380"
+}
